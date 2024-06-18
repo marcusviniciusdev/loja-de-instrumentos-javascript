@@ -1,10 +1,10 @@
 # <div align="center">Meu primeiro projeto em javascript</div>
 
 
-> **TEMA:** UMA LOJA DE INSTRUMENTOS MUSICAIS
+> **TOPIC:** MUSICAL INSTRUMENT STORE
 
 
-### Foi um projeto onde tive contato com o mundo da programação, realizado durante um curso feito em técnico em informática com ênfase em programação. Basicamente, é JavaScript puro orientado a objetos e o front-end todo feito com alertas no navegador.
+### This project was my first introduction to the world of programming, developed during a technical course in computer science with a focus on programming. It is essentially pure JavaScript, oriented to objects, with the entire front-end implemented using alerts in the browser.
 <br> 
 
 > **TEMA:** PASSO A PASSO PARA DEPLOY
